@@ -1,0 +1,31 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Berkshire+Swash&display=swap');
+
+body {
+    background-color: #F5BD9F;
+}
+
+header {
+
+    font-family: "berkshire swash";
+    font-size: 100px;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+.menu-hamburguesa {
+    display: flex;
+    width: 5%;
+    height: 5%;
+    margin-top: 75px;
+    margin-left: 50px;
+}
+.embrutamots {
+    display: flex;
+    margin-top: 40px;
+    margin-right: 150px;
+    
+}
+
